@@ -13,5 +13,4 @@ BI professional with 7+ years of experience in Technology Information, focusing 
 
 Deep experience in pre-sales support, acting as a technical consultant, designing the architecture, creating POCs and advising on the best technologies to solve the problem, based on Microsoft solutions.
 
-Also you can check some content in my blog:
-<img src="http://assets.stickpng.com/images/5841c47ba6515b1e0ad75aa3.png" width="20"> <a href="https://github.com/microsoft">@microsoft </a>
+Blog - https://medium.com/@_orlandogomes
