@@ -4,3 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/orlandomariano)](https://www.linkedin.com/in/orlandomariano)
 
 ### About me
+📊 Customer Engineer @microsoft
+💻 Co-Organizer @onerdzao 
+💻 @Microsoft MVP Reconnect & MSA
+👤 26 - São Paulo - Brazil
